@@ -1,0 +1,13 @@
+.main-menu {
+    margin: 0 0 20px;
+    list-style: none;
+    border-bottom: 1px solid #cccccc;
+}
+
+.main-menu li {
+    display: inline-block;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none;
+}

@@ -16,17 +16,17 @@ $ npm run dev
 ```sh
 $ npm run watch
 ```
-In your browser, navigate to: http://localhost:8080/
+In your browser, navigate to: http://localhost:8081/
 
 
 ### Production
 ```sh
 npm run build  
 ```
-Copy everything in build/ folder to the server.
+Copy everything in dist/ folder to the server.
 
 ## Version
-0.9.0
+0.9.1
 
 ## License
 MIT
