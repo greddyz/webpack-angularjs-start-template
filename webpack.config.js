@@ -22,6 +22,11 @@ var config  = {
     module: {
         loaders: [
             {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                use: 'jshint-loader'
+            },
+            {
                 test: /\.css$/,
                 loader: 'style-loader!css-loader'
                 // выгрузка css в файл

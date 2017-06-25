@@ -28,5 +28,5 @@ module.exports = function (ngModule) {
             return total;
         };
 
-    }])
+    }]);
 };

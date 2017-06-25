@@ -26,7 +26,7 @@ npm run build
 Copy everything in dist/ folder to the server.
 
 ## Version
-0.9.1
+0.9.2
 
 ## License
 MIT
